@@ -19,3 +19,4 @@ Technologies Used
 - PHP
 - MySQL
 - XAMPP (Apache & MySQL)
+used for student 
